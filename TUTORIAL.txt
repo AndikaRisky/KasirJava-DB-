@@ -1,0 +1,20 @@
+TES PROJECT SECARA KESELURUHAN
+1. langsung doubleklik file TA.jar
+
+MELIHAT MASING-MASING SOURCE CODE
+
+MENYIAPKAN DATABASE
+1.Install xampp sebagai database
+2.start apache dan mysql
+3.masuk ke myphpadmin(KLIK ADMIN),buat database dengan judul db_penjualan
+4.import file db_penjualan.sql yang telah disiapkan
+
+IMPORT PROJECT
+1.import project kedalam netbeans
+2.cek libraries,apabila tidak ada 3 library yang dibutuhkan,silahkan
+ klik kanan => add jar => cari folder lib didalam project yang telah diekstrak => klik ok
+3.lakukan sampai 3 library yang dibutuhkan telah muncul
+4.jika terjadi eror saat run project,silahkan
+klik TA =>klik kanan => properties => klik source =>arahkan ke folder dimana project diimport
+
+
